@@ -13,7 +13,7 @@ Takeaways from completing this project include the application of concepts surro
 N/A
 
 ## Usage 
-Go to link: https://jpwu23.github.io/Jimmy-Wu-Portfolio/ Click any area of the time block to start typing a task. When you're done, click the corresponding save button to save the task (this will be saved in the local storage so that it persists upon page reload). Drag the time blocks and arrange them however you would like them to be organized. Time blocks will be color coded based on whether this time block is now expired (red), current (grey), or in the future (green) according to the current time at the top of the webpage (which is set to the user's local browser timezone by default).
+Go to link: https://jpwu23.github.io/work-day-scheduler/ Click any area of the time block to start typing a task. When you're done, click the corresponding save button to save the task (this will be saved in the local storage so that it persists upon page reload). Drag the time blocks and arrange them however you would like them to be organized. Time blocks will be color coded based on whether this time block is now expired (red), current (grey), or in the future (green) according to the current time at the top of the webpage (which is set to the user's local browser timezone by default).
 
 ![alt text](assets/images/screenshot2.PNG)
 
